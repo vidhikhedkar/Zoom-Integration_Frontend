@@ -8,7 +8,7 @@ export default function Navbar() {
                 <div className="bg-blue-600 text-white h-8 w-8 rounded-lg flex justify-center items-center">
                     <Video size={16} strokeWidth={2.5} />
                 </div>
-                <span className="text-base font-bold text-slate-900 m-0">HuddleSpace</span>
+                <span className="text-base font-bold text-slate-900 m-0">Vidhi's Space</span>
             </div>
 
             <div className="flex items-center gap-4 sm:gap-6 max-w-full overflow-x-auto no-scrollbar">
